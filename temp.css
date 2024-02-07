@@ -1,0 +1,19 @@
+
+body{
+    background-color: black;
+    color: red;
+    text-align: center;
+    font-size: 1.2rem;
+}
+h1{
+    background-color: white;
+    color: black;
+    margin: 0 250px;
+}
+input::placeholder{
+    color: black;
+}
+button:hover{
+    background-color: blue;
+    color: cornflowerblue;
+}
